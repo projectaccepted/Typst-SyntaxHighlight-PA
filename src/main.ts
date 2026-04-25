@@ -1,10 +1,11 @@
 /* -------------------------------------------------- */
-/*  Imports                                           */
+/*  Imports v2                                           */
 /* -------------------------------------------------- */
 import { basicSetup } from "codemirror";
 import { EditorState } from "@codemirror/state";
 import { EditorView } from "@codemirror/view";
 import { typstSyntax } from "./typst-lang";
+
 
 /* -------------------------------------------------- */
 /*  Types                                             */
